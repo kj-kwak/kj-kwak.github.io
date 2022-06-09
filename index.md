@@ -3,7 +3,8 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Kay Kyoung-ju Kwak
-Head of Cyber Threat Intelligence Group, Talon at S2W.
+
+Director, Head of Cyber Threat Intelligence Group, Talon at S2W.
 
 <div id="webaddress">
 <a href="kjkwak12@gmail.com">kjkwak12@gmail.com</a>
@@ -15,13 +16,12 @@ Head of Cyber Threat Intelligence at S2W. Formerly Threat Researcher at Computer
 
 ## Currently
 
-Working on the CTI (Cyber Threat Intelligence) Field at [S2W](https://s2w.inc/)
+Working on the CTI (Cyber Threat Intelligence) at [S2W](https://s2w.inc/) and Researching on 
 
 
-### Research interests
+## Research interests
 
 Cyber Threat Intelligence, Threat Modeling, Malware, Cybercrime.
-
 
 ## Education
 
@@ -47,11 +47,8 @@ __Bachelor of Engineering, Sunkyunkwan University, South Korea.__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2017`
+Minister of Interior’s Excellence Award
 
 
 ## Publications
