@@ -9,6 +9,7 @@ Director, Head of Cyber Threat Intelligence Group, Talon at S2W.
 <div id="webaddress">
 <a href="kjkwak12@gmail.com">kjkwak12@gmail.com</a>
 | <a href="https://www.linkedin.com/in/kay-kyoung-ju-kwak-73191664/">Linkedin</a>
+| <a href="https://twitter.com/kjkwak12">Twitter</a>
 </div>
 
 ## Bio
