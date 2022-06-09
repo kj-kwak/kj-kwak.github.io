@@ -2,45 +2,48 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kay Kyoung-ju Kwak
+Head of Cyber Threat Intelligence Group, Talon at S2W.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="kjkwak12@gmail.com">kjkwak12@gmail.com</a>
+| <a href="https://www.linkedin.com/in/kay-kyoung-ju-kwak-73191664/">Linkedin</a>
 </div>
 
+## Bio
+Head of Cyber Threat Intelligence at S2W. Formerly Threat Researcher at Computer Emergency Analysis Team of Government-backed company FSI (Financial Security Institute in South Korea). Analyzing malware and potential threats against the Korea Financial Industry. I am a member of the National Police Agency Cyber-crime Advisory Committee. I am the main author of the threat intelligence report "Campaign Rifle: Andariel, the Maiden of Anguish" published by FSI in 2017 and presented at many international conferences including Blackhat Europe&Asia, PACSEC, HITCON, Hackcon, Kaspersky SAS.
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Working on the CTI (Cyber Threat Intelligence) Field at [S2W](https://s2w.inc/)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Cyber Threat Intelligence, Threat Modeling, Malware, Cybercrime.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022 - now`
+__PhD Course, KAIST (Korea Advanced Institute of Science and Technology, South Korea__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2011-2012`
+__Master of Engineering, Sunkyunkwan University, South Korea.__
 
-- Sizar
+`-2011`
+__Bachelor of Engineering, Sunkyunkwan University, South Korea.__
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Professional Activities
 
-- Fellow
+`2016 - now`
+__Advisor of National Police Agnecy__
 
+`2011-2012`
+__Master of Engineering, Sunkyunkwan University, South Korea.__
 
+`-2011`
+__Bachelor of Engineering, Sunkyunkwan University, South Korea.__
 
 ## Awards
 
