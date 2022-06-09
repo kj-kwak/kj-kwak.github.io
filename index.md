@@ -22,7 +22,7 @@ Working on the CTI (Cyber Threat Intelligence) at [S2W](https://s2w.inc/) and Re
 
 ## Research interests
 
-Cyber Threat Intelligence, Threat Modeling, Malware, Cybercrime.
+Cyber Threat Intelligence, Threat modeling, Automated malware analysis, Cybercrime investigation, Network security.
 
 ## Education
 
