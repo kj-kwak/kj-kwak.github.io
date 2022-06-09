@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kyoung-ju Kwak's CV
 ---
 # Kay Kyoung-ju Kwak
 
@@ -51,36 +51,54 @@ __Bachelor of Engineering, Sunkyunkwan University, South Korea.__
 Minister of Interior’s Excellence Award
 
 
-## Publications
+## Publications & Presentations
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+`2022`
+Ransomware against Critical Infrastructure, CPS Security Workshop
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2021`
+Darkweb Databreach, CONCERT
+Reveal the Origin, Ransomware Gangs based on the Darkweb, ISEC
+Case Study: Supply Chain Attack, DFAT Australia Workshop
+Operation Newton : Hi Kimsuky? Did an Apple(Seed) really fall on Newton’s head?, Virusbulletin
 
-`1669`
-Lectiones opticæ.
+`2020`
+Formbook Tracker unveiled on the darkweb, Interpol
+Darkweb & Industry leak, ISEC
+Life in Threat InHELLigence, CONCERT
 
-etc. etc. etc.
+`2019`
+Darkside of Financial Cybercrim, FISCON
+Profiling on Cyber threat actors, Supreme Prosecutors Office
+Fight Against Cybercrime: GANDCRAB Threat Groups, ISCR (International Symposium on Cyber Crime Response)
 
-### Patents
+`2018`
+Underground Invasion Tunnels: State-Sponsored Cyber Miners Recent Status, Kaspersky Security Analyst Summit
+Nation-State Moneymule’s Hunting Season : APT Attacks Targetting Financial Institutions, Blackhat Asia
+Landscape of Threats in South Korea, NetSecKR
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2017`
+Nation-State Moneymule’s Hunting Season : APT Attacks Targetting Financial Institutions, Blackhat Europe
+Campaign RIFLE : Andariel, The Maiden of Anguish, Financial Security Institute
+Campaign RIFLE : Andariel, The Maiden of Anguish, US FSISAC Webinar
+How to Take Control of All Your System, HACKCON Norway
+Silent Gunfire : Unveiling Ties Between APT Activity in South Korea, KIMCHICON
 
+`2016`
+Fly Me to the BLACKMOON, HITCON
+The New Wave of Cyberterror in Korea Financial Sector, PACSEC Tokyo
 
 ## Occupation
+`2020-now`
+__S2W__, Director, Head of Cyber threat intelligence group
 
-`1600`
-__Royal Mint__, London
+`2015-2020`
+__FSI (Financial Security Institute)__, Senior Manager, Threat Analysis team
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2012-2015`
+__KFTC (Korea Financial Telecommunications & Clearings Institute)__, Senior Manager, Incident Response team
 
 
 
