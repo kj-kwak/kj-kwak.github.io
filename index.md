@@ -60,36 +60,36 @@ Minister of Interior’s Excellence Award
 Ransomware against Critical Infrastructure, CPS Security Workshop
 
 `2021`
-Darkweb Databreach, CONCERT
-Reveal the Origin, Ransomware Gangs based on the Darkweb, ISEC
-Case Study: Supply Chain Attack, DFAT Australia Workshop
-Operation Newton : Hi Kimsuky? Did an Apple(Seed) really fall on Newton’s head?, Virusbulletin
+Darkweb Databreach, CONCERT\
+Reveal the Origin, Ransomware Gangs based on the Darkweb, ISEC\
+Case Study: Supply Chain Attack, DFAT Australia Workshop\
+Operation Newton : Hi Kimsuky? Did an Apple(Seed) really fall on Newton’s head?, Virusbulletin\
 
 `2020`
-Formbook Tracker unveiled on the darkweb, Interpol
-Darkweb & Industry leak, ISEC
-Life in Threat InHELLigence, CONCERT
+Formbook Tracker unveiled on the darkweb, Interpol\
+Darkweb & Industry leak, ISEC\
+Life in Threat InHELLigence, CONCERT\
 
 `2019`
-Darkside of Financial Cybercrim, FISCON
-Profiling on Cyber threat actors, Supreme Prosecutors Office
-Fight Against Cybercrime: GANDCRAB Threat Groups, ISCR (International Symposium on Cyber Crime Response)
+Darkside of Financial Cybercrim, FISCON\
+Profiling on Cyber threat actors, Supreme Prosecutors Office\
+Fight Against Cybercrime: GANDCRAB Threat Groups, ISCR (International Symposium on Cyber Crime Response)\
 
 `2018`
-Underground Invasion Tunnels: State-Sponsored Cyber Miners Recent Status, Kaspersky Security Analyst Summit
-Nation-State Moneymule’s Hunting Season : APT Attacks Targetting Financial Institutions, Blackhat Asia
-Landscape of Threats in South Korea, NetSecKR
+Underground Invasion Tunnels: State-Sponsored Cyber Miners Recent Status, Kaspersky Security Analyst Summit\
+Nation-State Moneymule’s Hunting Season : APT Attacks Targetting Financial Institutions, Blackhat Asia\
+Landscape of Threats in South Korea, NetSecKR\
 
 `2017`
-Nation-State Moneymule’s Hunting Season : APT Attacks Targetting Financial Institutions, Blackhat Europe
-Campaign RIFLE : Andariel, The Maiden of Anguish, Financial Security Institute
-Campaign RIFLE : Andariel, The Maiden of Anguish, US FSISAC Webinar
-How to Take Control of All Your System, HACKCON Norway
-Silent Gunfire : Unveiling Ties Between APT Activity in South Korea, KIMCHICON
+Nation-State Moneymule’s Hunting Season : APT Attacks Targetting Financial Institutions, Blackhat Europe\
+Campaign RIFLE : Andariel, The Maiden of Anguish, Financial Security Institute\
+Campaign RIFLE : Andariel, The Maiden of Anguish, US FSISAC Webinar\
+How to Take Control of All Your System, HACKCON Norway\
+Silent Gunfire : Unveiling Ties Between APT Activity in South Korea, KIMCHICON\
 
 `2016`
-Fly Me to the BLACKMOON, HITCON
-The New Wave of Cyberterror in Korea Financial Sector, PACSEC Tokyo
+Fly Me to the BLACKMOON, HITCON\
+The New Wave of Cyberterror in Korea Financial Sector, PACSEC Tokyo\
 
 ## Occupation
 `2020-now`
