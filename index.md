@@ -17,7 +17,8 @@ Currently, Head of Cyber Threat Intelligence at S2W. Formerly Threat Researcher 
 
 ## Currently
 
-Working on the CTI (Cyber Threat Intelligence) at [S2W](https://s2w.inc/) and Researching on 
+Working on the CTI (Cyber Threat Intelligence) at [S2W](https://s2w.inc/) and researching on network security, automated malware analysis, and so on.
+I am a Ph. D. student at KAIST in the [NSS Lab](https://nss.kaist.ac.kr/).
 
 
 ## Research interests
@@ -105,6 +106,6 @@ __KFTC (Korea Financial Telecommunications & Clearings Institute)__, Senior Mana
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2022 -->
 
 
