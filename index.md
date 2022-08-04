@@ -4,7 +4,7 @@ title: Kyoung-ju Kwak's CV
 ---
 # Kay Kyoung-ju Kwak
 
-Director, Head of Cyber Threat Intelligence Group, Talon at [S2W](https://s2w.inc/).
+Director, Head of Center for Threat Research and Intelligence, Talon at [S2W](https://s2w.inc/).
 
 <div id="webaddress">
 <a href="kjkwak12@gmail.com">kjkwak12@gmail.com</a>
