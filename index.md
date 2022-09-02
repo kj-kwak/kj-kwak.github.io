@@ -13,7 +13,7 @@ Director, Head of Center for Threat Research and Intelligence, Talon at [S2W](ht
 </div>
 
 ## Bio
-Currently, Head of Center for Threat Research and Intelligence, Talon at S2W. Formerly Threat Researcher at Computer Emergency Analysis Team of Government-backed company FSI (Financial Security Institute in South Korea). Analyzing malware and potential threats against the Korea Financial Industry. I am a member of the National Police Agency Cyber-crime Advisory Committee and the main author of the threat intelligence report "Campaign Rifle: Andariel, the Maiden of Anguish" published by FSI in 2017 and presented at many international conferences including Blackhat Europe&Asia, PACSEC, HITCON, Hackcon, Kaspersky SAS, Etc.
+Currently, Head of Center for Threat Research and Intelligence, Talon at S2W. Formerly Threat Researcher at Computer Emergency Analysis Team of Government-backed company FSI (Financial Security Institute in South Korea). I am analyzing malware and potential threats against the Korea Financial Industry. I am a member of the National Police Agency Cyber-crime Advisory Committee and the main author of the threat intelligence report "Campaign Rifle: Andariel, the Maiden of Anguish" published by FSI in 2017 and presented at many international conferences including Blackhat Europe&Asia, PACSEC, HITCON, Hackcon, Kaspersky SAS, Etc.
 
 ## Currently
 
