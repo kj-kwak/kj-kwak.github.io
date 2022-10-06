@@ -63,25 +63,25 @@ Ransomware against Critical Infrastructure, CPS Security Workshop
 Darkweb Databreach, CONCERT\
 Reveal the Origin, Ransomware Gangs based on the Darkweb, ISEC\
 Case Study: Supply Chain Attack, DFAT Australia Workshop\
-Operation Newton : Hi Kimsuky? Did an Apple(Seed) really fall on Newton’s head?, Virusbulletin
+__Operation Newton : Hi Kimsuky? Did an Apple(Seed) really fall on Newton’s head?, Virus Bulletin__
 
 `2020`
-Formbook Tracker unveiled on the darkweb, Interpol\
+__Formbook Tracker unveiled on the darkweb, Interpol__\
 Darkweb & Industry leak, ISEC\
 Life in Threat InHELLigence, CONCERT
 
 `2019`
 Darkside of Financial Cybercrim, FISCON\
 Profiling on Cyber threat actors, Supreme Prosecutors Office\
-Fight Against Cybercrime: GANDCRAB Threat Groups, ISCR (International Symposium on Cyber Crime Response)
+__Fight Against Cybercrime: GANDCRAB Threat Groups, ISCR (International Symposium on Cyber Crime Response)__
 
 `2018`
 Underground Invasion Tunnels: State-Sponsored Cyber Miners Recent Status, Kaspersky Security Analyst Summit\
-Nation-State Moneymule’s Hunting Season : APT Attacks Targetting Financial Institutions, Blackhat Asia\
+__Nation-State Moneymule’s Hunting Season : APT Attacks Targetting Financial Institutions, Blackhat Asia__\
 Landscape of Threats in South Korea, NetSecKR
 
 `2017`
-Nation-State Moneymule’s Hunting Season : APT Attacks Targetting Financial Institutions, Blackhat Europe\
+__Nation-State Moneymule’s Hunting Season : APT Attacks Targetting Financial Institutions, Blackhat Europe__\
 Campaign RIFLE : Andariel, The Maiden of Anguish, Financial Security Institute\
 Campaign RIFLE : Andariel, The Maiden of Anguish, US FSISAC Webinar\
 How to Take Control of All Your System, HACKCON Norway\
@@ -93,7 +93,7 @@ The New Wave of Cyberterror in Korea Financial Sector, PACSEC Tokyo
 
 ## Occupation
 `2020-now`
-__S2W__, Director, Head of Cyber threat intelligence group
+__S2W__, Director, Head of Center for Threat Research & Intelligence
 
 `2015-2020`
 __FSI (Financial Security Institute)__, Senior Manager, Threat Analysis team
