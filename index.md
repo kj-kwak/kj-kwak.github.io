@@ -20,9 +20,9 @@ Currently, Head of Center for Threat Research and Intelligence, Talon at S2W. Fo
 Working on the CTI (Cyber Threat Intelligence) at [S2W](https://s2w.inc/) and researching on network security, automated malware analysis, and so on. 
 I am a Ph.D. student at KAIST in the [NSS Lab](https://nss.kaist.ac.kr/).
 
-## Research interests
+## Interests
 
-Cyber Threat Intelligence, Threat modeling, Automated malware analysis, Cybercrime investigation, Network security.
+Incident Response, Cyber Threat Intelligence, Threat modeling, Automated malware analysis, Cybercrime investigation, Network security.
 
 ## Education
 
