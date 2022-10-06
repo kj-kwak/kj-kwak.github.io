@@ -57,7 +57,8 @@ Minister of Interior’s Excellence Award
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 `2022`
-Ransomware against Critical Infrastructure, CPS Security Workshop
+Ransomware against Critical Infrastructure, CPS Security Workshop\
+__Gwisin: A Spooky Ransomware Only Targets South Korea, FIRST CTI__
 
 `2021`
 Darkweb Databreach, CONCERT\
