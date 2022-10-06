@@ -22,7 +22,7 @@ I am a Ph.D. student at KAIST in the [NSS Lab](https://nss.kaist.ac.kr/).
 
 ## Interests
 
-Incident Response, Cyber Threat Intelligence, Threat modeling, Automated malware analysis, Cybercrime investigation, Network security.
+Incident Response, Cyber Threat Intelligence, Threat modeling, Automated malware analysis, Cybercrime investigation, Network security
 
 ## Education
 
