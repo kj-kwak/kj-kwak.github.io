@@ -46,13 +46,13 @@ Advisory Member of Threat Intelligence Network, Korea Internet & Security Agency
 Adjunct Professor, Department of Digital Forensics, Sungkyunkwan University
 
 `2016 - 2021`
-__Advisor of National Police Agency__
+Advisory Member of Threat Intelligence Expert Group, South Korea National Police Agency
 
 `2011-2012`
-__Master of Engineering, Sunkyunkwan University, South Korea__
+Master of Engineering, Sunkyunkwan University
 
 `-2011`
-__Bachelor of Engineering, Sunkyunkwan University, South Korea__
+Bachelor of Engineering, Sunkyunkwan University
 
 ## Awards
 
