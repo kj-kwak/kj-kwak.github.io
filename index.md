@@ -30,21 +30,29 @@ Incident Response, Cyber Threat Intelligence, Threat modeling, Automated malware
 __PhD Course, KAIST (Korea Advanced Institute of Science and Technology, South Korea__
 
 `2011-2012`
-__Master of Engineering, Sunkyunkwan University, South Korea.__
+__Master of Engineering, Sunkyunkwan University, South Korea__
 
 `-2011`
-__Bachelor of Engineering, Sunkyunkwan University, South Korea.__
+__Bachelor of Engineering, Sunkyunkwan University, South Korea__
 
 ## Professional Activities
 
-`2016 - now`
-__Advisor of National Police Agnecy__
+`2022-Current`
+Advisory Member of Cyber Security Alliance, Ministry of Science and ICT\
+Advisory Member of Technical Forum of Personal Information Protection Committee Detection, Personal Information Protection Commission\
+Advisory Member of Threat Intelligence Network, Korea Internet & Security Agency
+
+`2019-2020`
+Adjunct Professor, Department of Digital Forensics, Sungkyunkwan University
+
+`2016 - 2021`
+__Advisor of National Police Agency__
 
 `2011-2012`
-__Master of Engineering, Sunkyunkwan University, South Korea.__
+__Master of Engineering, Sunkyunkwan University, South Korea__
 
 `-2011`
-__Bachelor of Engineering, Sunkyunkwan University, South Korea.__
+__Bachelor of Engineering, Sunkyunkwan University, South Korea__
 
 ## Awards
 
