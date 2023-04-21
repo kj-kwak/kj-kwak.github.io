@@ -27,7 +27,7 @@ Incident Response, Cyber Threat Intelligence, Threat modeling, Automated malware
 ## Education
 
 `2022 - now`
-__PhD Course, KAIST (Korea Advanced Institute of Science and Technology, South Korea__
+__PhD Candidate, KAIST (Korea Advanced Institute of Science and Technology, South Korea__
 
 `2011-2012`
 __Master of Engineering, Sunkyunkwan University, South Korea__
