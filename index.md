@@ -30,10 +30,10 @@ Incident Response, Cyber Threat Intelligence, Threat modeling, Automated malware
 __PhD Candidate, KAIST (Korea Advanced Institute of Science and Technology, South Korea__
 
 `2011-2012`
-__Master of Engineering, Sunkyunkwan University, South Korea__
+__Master of Computer Engineering, Sunkyunkwan University, South Korea__
 
 `-2011`
-__Bachelor of Engineering, Sunkyunkwan University, South Korea__
+__Bachelor of Computer Science, Sunkyunkwan University, South Korea__
 
 ## Professional Activities
 
