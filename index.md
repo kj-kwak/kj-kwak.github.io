@@ -56,7 +56,7 @@ Bachelor of Engineering, Sunkyunkwan University
 
 ## Awards
 
-`2017`
+`2016`
 Minister of Interior’s Excellence Award
 
 
