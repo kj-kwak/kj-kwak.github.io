@@ -4,7 +4,7 @@ title: Kyoung-ju Kwak's CV
 ---
 # Kay Kyoung-ju Kwak
 
-Director, Head of Center for Threat Research and Intelligence, Talon at [S2W](https://s2w.inc/).
+Senior Vice President, Chief Strategy Officer & Chief Information Security Officer
 
 <div id="webaddress">
 <a href="kjkwak12@gmail.com">kjkwak12@gmail.com</a>
@@ -13,16 +13,18 @@ Director, Head of Center for Threat Research and Intelligence, Talon at [S2W](ht
 </div>
 
 ## Bio
-Currently, Head of Center for Threat Research and Intelligence, Talon at S2W. Formerly Threat Researcher at Computer Emergency Analysis Team of Government-backed company FSI (Financial Security Institute in South Korea). I am analyzing malware and potential threats against the Korea Financial Industry. I am a member of the National Police Agency Cyber-crime Advisory Committee and the main author of the threat intelligence report "Campaign Rifle: Andariel, the Maiden of Anguish" published by FSI in 2017 and presented at many international conferences including Blackhat Europe&Asia, PACSEC, HITCON, Hackcon, Kaspersky SAS, Etc.
+As the Senior Vice President, CSO, and CISO at goorm, I lead the company’s strategic direction and information security posture. My leadership is grounded in extensive technical experience as a former threat researcher and intelligence lead.
+
+Previously, I led the Talon Center for Threat Research and Intelligence at S2W and analyzed critical threats against the financial industry at the Financial Security Institute (FSI). I am widely recognized for my research on the "Andariel" threat group (Campaign Rifle) and serve on the National Police Agency Cyber-crime Advisory Committee. A frequent speaker at top-tier global conferences such as Black Hat, PACSEC, and Kaspersky SAS, I bridge the gap between deep technical analysis and high-level security strategy.
 
 ## Currently
 
-Working on the CTI (Cyber Threat Intelligence) at [S2W](https://s2w.inc/) and researching on network security, automated malware analysis, and so on. 
-I am a Ph.D. student at KAIST in the [NSS Lab](https://nss.kaist.ac.kr/).
+Serving as Senior Vice President, CSO, and CISO at [goorm](https://www.goorm.io/), leading corporate strategy and global security initiatives.
+I am a Ph.D. student at KAIST in the [NSS Lab](https://nss.kaist.ac.kr/), researching network security and automated malware analysis.
 
 ## Interests
 
-Incident Response, Cyber Threat Intelligence, Threat modeling, Automated malware analysis, Cybercrime investigation, Network security
+Security Product Strategy, Offensive Security, Incident Response, Cyber Threat Intelligence, Threat modeling, Automated malware analysis, Cybercrime investigation, Network security
 
 ## Education
 
@@ -101,7 +103,10 @@ Fly Me to the BLACKMOON, HITCON\
 The New Wave of Cyberterror in Korea Financial Sector, PACSEC Tokyo
 
 ## Occupation
-`2020-now`
+`2022-now`
+__goorm__, Senior Vice President, Chief Strategy Officer & Chief Information Security Officer
+
+`2020-2022`
 __S2W__, Director, Head of Center for Threat Research & Intelligence
 
 `2015-2020`
